@@ -41,6 +41,10 @@ body {
     margin-top:3rem;
     text-align: justify!important;
 }
+.aboutcontent{
+    line-height: 1.8rem;
+    margin-top: 0.2rem;
+}
 
 
 /* rientro contact about projects
@@ -552,11 +556,6 @@ li a {
 
     #listaprogetti{padding: 0rem;}
 
-/*TEXT*/
-#text, p{
-  width: 100%;
-margin-bottom: 0.3rem;
-}
 
 
 .img-project {
