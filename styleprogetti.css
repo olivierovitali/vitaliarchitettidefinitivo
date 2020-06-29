@@ -509,7 +509,7 @@ font-size: 1rem;
     text-decoration: none;
 }
 
-    #img-project  {height: inherit; overflow-y: hidden; object-fit: contain;} 
+    #img-project  {height: 80vh; overflow-y: hidden; object-fit: contain;} 
     
     
 body {
