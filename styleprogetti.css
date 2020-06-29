@@ -505,7 +505,7 @@ font-size: 1rem;
 
 
 #home{
- font-size: 2rem;
+ font-size: 1.5rem;
     text-decoration: none;
 }
 
@@ -531,14 +531,14 @@ line-height: 2rem;
     .arte{
         padding-top: 2rem;
         padding-right: 2rem;
-        height:60rem;
+        
         
     }
 li a {
    display: inline-block;
     
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 #navbar{position: fixed; margin: 3rem;}
