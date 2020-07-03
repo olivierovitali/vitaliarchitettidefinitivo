@@ -30,6 +30,13 @@ body {
     font-size: 1.5rem;
    
 }
+
+.titolettoabout{
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+   
+}
+
 .chiudi{
     font-size: 1.2rem;
 
@@ -41,8 +48,10 @@ body {
     text-align: justify!important;
 }
 .aboutcontent{
+/*
     line-height: 1.8rem;
     margin-top: 0.2rem;
+*/
 }
 
 
@@ -76,7 +85,7 @@ img {
 
 
 .animal  {  
-    margin: 0 0 0 0;
+    margin: 1rem 0 0 0;
     text-align: center;
 }
 
@@ -299,8 +308,8 @@ line-height: 1.6rem;
 /*// scritte sotto studio vitali (about, progetti, contatti) //*/
 li a {
   display: inline-block;
-  padding: 0rem;
-  text-decoration: none;
+margin-bottom:1rem;
+text-decoration: none;
 font-size: 1rem;
 }
     
@@ -382,7 +391,7 @@ font-size: 1rem;
     }
 */
     .animal {
-        margin:0.1rem;
+    margin: 1rem 0 0 0;
         padding-left: 1rem;
         overflow: visible;
         float: left;
@@ -534,7 +543,7 @@ line-height: 1.5rem;
     }
 li a {
    display: inline-block;
-    
+    margin-bottom:1rem;
   text-decoration: none;
   font-size: 1rem;
 }
@@ -681,7 +690,7 @@ li a {
 
 li a {
    display: inline-block;
-  padding: 0 0;
+margin-bottom:1rem;
   text-decoration: none;
 font-size: 1rem;
 }
@@ -689,7 +698,7 @@ font-size: 1rem;
     
     .animal {
         line-height: 2.8rem;
-        padding-left: 0rem;
+    margin: 1rem 0 0 0;
         overflow: visible;
         float: left;
         font-size: 1rem;
