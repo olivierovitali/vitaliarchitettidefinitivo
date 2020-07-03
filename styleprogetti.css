@@ -22,9 +22,8 @@ body {
 }
 
 #titoloprogetti{
-        margin-top: 2.9rem;
+        margin-top: 3rem;
     margin-right: 2rem;
-    
 }
 .titoletto{
     margin-bottom: 0rem;
@@ -55,11 +54,11 @@ body {
 
 #app{
     text-align: end!important;
-    margin-right: 32px;
+    margin-right: 2rem;
 }
 
 .grassetto{
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .imma{
@@ -76,8 +75,8 @@ img {
 }
 
 
-.animal p {  
-    margin: 0.5rem 0 0 0;
+.animal  {  
+    margin: 0 0 0 0;
     text-align: center;
 }
 
@@ -656,7 +655,7 @@ li a {
 
 
     #titolopaginaprogetti{
-        font-size: 3rem;
+        font-size: 1.5rem;
         margin: 3rem;
         
     }
@@ -682,7 +681,7 @@ li a {
 
 li a {
    display: inline-block;
-  padding: 0.7rem 2rem;
+  padding: 0 0;
   text-decoration: none;
 font-size: 1rem;
 }
@@ -693,7 +692,7 @@ font-size: 1rem;
         padding-left: 0rem;
         overflow: visible;
         float: left;
-        font-size: 1.7rem;
+        font-size: 1rem;
     }
 
     .pet-name {
